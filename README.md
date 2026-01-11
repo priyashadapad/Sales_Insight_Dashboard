@@ -1,4 +1,4 @@
-📊 Sales Insights Dashboard | Power BI & SQL
+Sales Insights Dashboard | Power BI & SQL
 
 📌 Project Overview
 This project analyzes sales performance using SQL for data exploration and validation and Power BI for ETL, data modeling, and visualization.
