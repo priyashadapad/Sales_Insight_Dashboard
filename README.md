@@ -1,3 +1,16 @@
+Project Overview
+This Power BI Report provides an end-to-end analysis of Heart Disease Patients to help hospital management identify critical health patterns and improve patient outcomes. The dashboard visualizes patient distribution by gender, age, and health metrics, providing valuable insights into heart disease risk factors and overall trends.
+
+Business Objectives
+Analyze the demographics of heart disease patients by gender and age.
+Identify patterns in cholesterol levels, blood pressure, and heart rate.
+Evaluate survival outcomes based on key medical indicators.
+Support hospital decision-making for better treatment planning.
+Enhance data-driven health management through actionable visuals.
+
+
+
+
 Sales Insights Dashboard | Power BI & SQL
 
 📌 Project Overview
